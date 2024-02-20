@@ -1,5 +1,4 @@
-<img width="498" alt="image" src="https://github.com/MadMax393/HellBot-Extended/assets/159709370/e4d275f2-35d8-43ce-b29a-a24be189299f"><h1 align="center">
-  <b>𝘏𝘌𝘓𝘓 𝘌𝘟𝘛𝘌𝘕𝘋𝘌𝘋「🇮🇳」⁪⁬⁮⁮⁮</b>
+<b>𝘏𝘌𝘓𝘓 𝘌𝘟𝘛𝘌𝘕𝘋𝘌𝘋「🇮🇳」⁪⁬⁮⁮⁮</b>
 </h1>
 
 <p align="center">
