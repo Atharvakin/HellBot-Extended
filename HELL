@@ -9,7 +9,7 @@ _hell_zip () {
         echo "aHR0cHM6Ly9naXRodWIuY29tL01hZE1heDM5My9FeHRlbmRlZFBsdWdpbi9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
     elif [[ $UPSTREAM_REPO == "Original" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZS1NYWRNYXgvUGx1Z2luL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL01hZE1heDM5My9FeHRlbmRlZFBsdWdpbi9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
     elif [[ $UPSTREAM_REPO =~ $regex ]]
     then
         if [[ $UPSTREAM_REPO_BRANCH ]]
