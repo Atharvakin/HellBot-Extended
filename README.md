@@ -1,8 +1,9 @@
-<b>𝘏𝘌𝘓𝘓 𝘌𝘟𝘛𝘌𝘕𝘋𝘌𝘋「🇮🇳」⁪⁬⁮⁮⁮</b>
+<h1 align="center">
+  <b>𝘏𝘌𝘓𝘓 𝘌𝘟𝘛𝘌𝘕𝘋𝘌𝘋 🇮🇳</b>
 </h1>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/1afcf18acf90d2e70ff4a.png" alt="HELLBOT-EXTENDED">
+  <img src="https://te.legra.ph/file/1afcf18acf90d2e70ff4a.png" alt="HellBot-Extended">
 </p>
 
 <h6 align="center">
