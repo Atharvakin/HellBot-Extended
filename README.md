@@ -62,13 +62,7 @@
         - Paste the OTP received on Telegram.
         - If You have Enabled 2-Step Verification then fill your password.
         - Your Pyrogram Session will be saved in your Telegram Saved Message.
-    - Instagram
-        - Fill instagram username and password.
-        - If asked for OTP check yout email and fill up the OTP from there.
-        - Your Instagram Session will be displayed on the screen.
-        - Copy it carefully and Do Not Share With Anyone!
-        - Using a fake account is recommended.
-        - 
+          
 ------
 ## Disclaimer
 - We won't be responsible for any kind of ban due to this bot.
