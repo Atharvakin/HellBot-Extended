@@ -47,6 +47,7 @@
 - hit enter button and wait 
 - Do human verification.
 - Select the type of session:
+- 
  - HellBot Session
     - Fill API ID, API HASH, Phone number (with country code).
     - Paste the OTP received on Telegram.
