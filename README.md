@@ -1,6 +1,6 @@
-<h1 align="center">
+<h3 align="center">
   <b>𝘏𝘌𝘓𝘓 𝘌𝘟𝘛𝘌𝘕𝘋𝘌𝘋 🇮🇳</b>
-</h1>
+</h3>
 
 <p align="center">
   <img src="https://te.legra.ph/file/540c24ba9e8e4c9a2b8f9.jpg" alt="HellBot-Extended">
