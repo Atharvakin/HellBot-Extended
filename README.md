@@ -48,17 +48,17 @@
 - Do human verification.
 - Select the type of session:
  
- - HellBot Session
+ - HellBot Session-
     - Fill API ID, API HASH, Phone number (with country code).
     - Paste the OTP received on Telegram.
     - If You have Enabled 2-Step Verification then fill your password.
     - Your HellBot Session Will be saved in your Telegram Saved Message.
- - Telethon
+ - Telethon-
     - Fill API ID, API HASH, Phone number (with country code).
     - Paste the OTP received on Telegram.
     - If You have Enabled 2-Step Verification then fill your password.
     - Your Telethon Session Will be saved in your Telegram Saved Message.
- - Pyrogram
+ - Pyrogram-
     - Fill API ID, API HASH, Phone number (with country code).
     - Paste the OTP received on Telegram.
     - If You have Enabled 2-Step Verification then fill your password.
